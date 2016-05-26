@@ -13,9 +13,10 @@ p
 	height: auto;
 	margin: 5px 50px 5px 100px;
 	text-align: left;
-	font-size: 14;
+	font-size: 18;
 	line-height: 35px;
 	letter-spacing: 1pt;
+	color: #333333;
 }
 
 h1
@@ -23,10 +24,11 @@ h1
 	margin: 50px 50px 5px 20px;
 	padding: 0 5px 0;
 	text-align: left;
+	color: #009900;
 	white-space: nowrap;
 	border-style: none none solid solid;
 	border-width: 1px 20px;
-	border-color: #666666 #000000;
+	border-color: #009900 #009900;
 	padding: 0px 5px 0px;
 	width: auto;
 	font-size: 24;
@@ -218,7 +220,7 @@ ul#contents
 
 #footer
 {
-	height: 139px;
+	height: 180px;
 	width: auto;
 	background: url(../img/backplate_bottom.png);
 	background-color: green;
