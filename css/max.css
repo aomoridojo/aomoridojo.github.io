@@ -184,7 +184,7 @@ hr
 	padding: 0;
 	background-position: right top;
 	background-repeat: no-repeat;
-	background-color: white;
+	background-color: green;
 	text-align: left;
 }
 
@@ -220,8 +220,8 @@ ul#contents
 {
 	height: 100px;
 	width: auto;
-	background: url(../img/backplate_bottom.png);
-	background-color: white;
+	background: url(img/backplate_bottom.png);
+	background-color: green;
 	display: block;
 	text-align: right;
 	vertical-align: middle;
