@@ -220,7 +220,7 @@ ul#contents
 {
 	height: 100px;
 	width: auto;
-	background: url(img/backplate_bottom.png);
+	background: url(../img/backplate_bottom.png);
 	background-color: white;
 	display: block;
 	text-align: right;
