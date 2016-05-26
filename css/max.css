@@ -147,10 +147,10 @@ hr
 
 #header
 {
-	height: 100px;
+	height: 90px;
 	width: auto;
-	background: url(img/backplate_top.png);
-	background-color: black;
+	background: url(../img/backplate_top.png);
+	background-color: green;
 	display: block;
 	text-align: right;
 	vertical-align: bottom;
@@ -169,7 +169,7 @@ hr
 	height: 219px;
 	width: 100%;
 	padding: 0;
-	background: url(../img/keyboard.png);
+	background: url(img/keyboard.png);
 	background-position: left top;
 	background-repeat: no-repeat;
 	background-color: white;
@@ -184,7 +184,7 @@ hr
 	padding: 0;
 	background-position: right top;
 	background-repeat: no-repeat;
-	background-color: green;
+	background-color: white;
 	text-align: left;
 }
 
@@ -218,9 +218,9 @@ ul#contents
 
 #footer
 {
-	height: 100px;
+	height: 139px;
 	width: auto;
-	background: url(img/backplate_bottom.png);
+	background: url(../img/backplate_bottom.png);
 	background-color: green;
 	display: block;
 	text-align: right;
