@@ -1,0 +1,231 @@
+body
+{
+	margin: 0;
+	text-align: center;
+	font-family: 'Hiragino Kaku Gothic Pro', Meiryo, 'Times New Roman', 'MS UI Gothic', sans-serif;
+	overflow: scroll;
+	background-color: white;
+}
+
+p
+{
+	width: auto;
+	height: auto;
+	margin: 5px 50px 5px 100px;
+	text-align: left;
+	font-size: 14;
+	line-height: 35px;
+	letter-spacing: 1pt;
+}
+
+h1
+{
+	margin: 50px 50px 5px 20px;
+	padding: 0 5px 0;
+	text-align: left;
+	white-space: nowrap;
+	border-style: none none solid solid;
+	border-width: 1px 20px;
+	border-color: #666666 #000000;
+	padding: 0px 5px 0px;
+	width: auto;
+	font-size: 24;
+}
+
+h2
+{
+	margin: 50px 50px 5px 50px;
+	padding: 0 5px 0;
+	text-align: left;
+	white-space: nowrap;
+	border-style: none none solid solid;
+	border-width: 1px 10px;
+	border-color: #666666 #000000;
+	padding: 0px 5px 0px;
+	width: auto;
+	font-size: 18;
+}
+
+h3
+{
+	margin: 50px 50px 5px 50px;
+	padding: 0 5px 0;
+	text-align: left;
+	white-space: nowrap;
+	border-style: none none dotted none;
+	border-width: 1px 10px;
+	border-color: #666666 #000000;
+	padding: 0px 5px 0px;
+	width: auto;
+	font-size: 18;
+}
+
+.lightgrayframe
+{
+	width: auto;
+	height: auto;
+	margin: 5px 50px 5px 100px;
+	text-align: left;
+	font-size: 14;
+	line-height: 35px;
+	letter-spacing: 1pt;
+	border-style: dotted;
+	border-color: #aaaaaa;
+	background-color: #eeeeee;
+	border-width: 1px;
+}
+
+.bibtex
+{
+  position: inline;
+	line-height: 20px;
+	font-size: 13;
+	margin: 5px 50px 5px 100px;
+	padding: 10px;
+	letter-spacing: 1pt;
+	border-style: none none none dotted;
+	border-color: #aaaaaa;
+	background-color: #eeeeee;
+	border-width: 3px;
+}
+
+ul
+{
+	margin: 5px 50px 5px 100px;
+	text-align: left;
+	line-height: 30px;
+	letter-spacing: 1pt;
+	font-size: 14;
+}
+
+dl
+{
+	margin: 5px 50px 5px 100px;
+	text-align: left;
+	line-height: 30px;
+	letter-spacing: 1pt;
+	font-size: 14;
+}
+
+a:link
+{
+       	color: blue;
+	text-decoration: none;
+}
+
+a:active
+{
+	color: blue;
+	text-decoration: underline;
+}
+
+a:visited
+{
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: blue;
+	text-decoration: underline;
+}
+
+hr
+{
+	width: 500px;
+	border-style: none none dashed;
+	border-color: #333333;
+}
+
+.vs
+{
+    font-size: 10;
+}
+
+/* 繝倥ャ繝 */
+
+#header
+{
+	height: 100px;
+	width: auto;
+	background: url(../img/blackplate_top.png);
+	background-color: black;
+	display: block;
+	text-align: right;
+	vertical-align: bottom;
+}
+
+#header_title
+{
+	margin: 20px 50px;
+}
+
+/* 繧､繝ｳ繝� */
+
+#inner_header
+{
+	margin: 0;
+	height: 219px;
+	width: 100%;
+	padding: 0;
+	background: url(../img/keyboard.png);
+	background-position: left top;
+	background-repeat: no-repeat;
+	background-color: white;
+	text-align: left;
+}
+
+#inner
+{
+	margin: 0;
+	height: auto;
+	width: 100%;
+	padding: 0;
+	background: url(../img/background.png);
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-color: white;
+	text-align: left;
+}
+
+p#welcome
+{
+	color: #0066ff;
+	font-weight: bold;
+	font-size: 28;
+}
+
+ul#news
+{
+	font-size: 14;
+	height: 300px;
+	overflow-y: scroll;
+}
+
+li#top_of_news
+{
+	font-size: 14;
+	font-weight: bold;
+
+}
+
+ul#contents
+{
+	font-size: 14;
+}
+
+/* 繝輔ャ繧ｿ */
+
+#footer
+{
+	height: 100px;
+	width: auto;
+	background: url(../img/blackplate_bottom.png);
+	background-color: white;
+	display: block;
+	text-align: right;
+	vertical-align: middle;
+}
+
+/* Copyright(c) 2009 KUREBAYASHI Wataru, All Rights Reserved. */
