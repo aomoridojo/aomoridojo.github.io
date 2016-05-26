@@ -149,7 +149,7 @@ hr
 {
 	height: 100px;
 	width: auto;
-	background: url(img/blackplate_top.png);
+	background: url(img/backplate_top.png);
 	background-color: black;
 	display: block;
 	text-align: right;
@@ -220,7 +220,7 @@ ul#contents
 {
 	height: 100px;
 	width: auto;
-	background: url(img/blackplate_bottom.png);
+	background: url(img/backplate_bottom.png);
 	background-color: white;
 	display: block;
 	text-align: right;
